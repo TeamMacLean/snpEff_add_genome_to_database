@@ -10,7 +10,13 @@ Let's say you want to add genome guy11 to the database
 2) add guy11 genome/assembly to this path and name it as  sequences.fa. Now we have a file /tsl/software/testing/snpEff/4.2/src/snpEff/data/guy11/sequences.fa
 3) add gff3 annotation for guy11 genome in this path and name it as genes.gff. Now we have a file /tsl/software/testing/snpEff/4.2/src/snpEff/data/guy11/genes.gff
 4) [optional] If you have protein sequences for guy11, add the protein sequences to the path and name it as protein.fa.  Now we have a file /tsl/software/testing/snpEff/4.2/src/snpEff/data/guy11/protein.fa
-5) Run the commands :
+5) Open and Edit the file : /tsl/software/testing/snpEff/4.2/x86_64/snpEff.config , and add the following lines. Don't paste these lines that will mess up other entries.
+```
+# Guy11 : Magnaporthe oryzae strain guy11
+guy11.genome : guy11
+guy.reference : /tsl/software/testing/snpEff/4.2/src/snpEff/data/guy11
+```
+6) Run the commands :
 ```
 source snpEff-4.2
 source java-11.0.7
