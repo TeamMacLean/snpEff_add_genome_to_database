@@ -1,0 +1,650 @@
+00:00:00	SnpEff version SnpEff 4.2 (build 2015-12-05), by Pablo Cingolani
+00:00:00	Command: 'build'
+00:00:00	Building database for 'guy11'
+00:00:00	Reading configuration file '/tsl/software/testing/snpEff/4.2/x86_64/snpEff.config'. Genome: 'guy11'
+00:00:00	Reading config file: /tsl/software/testing/snpEff/4.2/src/snpEff/snpEff.config
+00:00:02	done
+Reading GFF3 data file  : '/tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/genes.gff'
+....................................................................................................
+		10000	....................................................................................................
+		20000	....................................................................................................
+		30000	....................................................................................................
+		40000	....................................................................................................
+		50000	....................................................................................................
+		60000	..............................
+	Total: 63000 markers added.
+
+	Create exons from CDS (if needed):
+	Exons created for 0 transcripts.
+
+	Deleting redundant exons (if needed):
+		Total transcripts with deleted exons: 0
+
+	Collapsing zero length introns (if needed):
+		Total collapsed transcripts: 0
+	Reading sequences   :
+		Reading sequence 'utg93'
+		Adding genomic sequences to exons: 	Done (740 sequences added, 0 ignored).
+		Reading sequence 'utg453'
+		Adding genomic sequences to exons: 	Done (146 sequences added, 0 ignored).
+		Reading sequence 'utg1059'
+		Adding genomic sequences to exons: 	Done (30 sequences added, 0 ignored).
+		Reading sequence 'utg3693'
+		Adding genomic sequences to exons: 	Done (38 sequences added, 0 ignored).
+		Reading sequence 'utg58'
+		Adding genomic sequences to exons: 	Done (989 sequences added, 0 ignored).
+		Reading sequence 'utg2943'
+		Adding genomic sequences to exons: 	Done (14 sequences added, 0 ignored).
+		Reading sequence 'utg912'
+		Adding genomic sequences to exons: 	Done (19 sequences added, 0 ignored).
+		Reading sequence 'utg17'
+		Adding genomic sequences to exons: 	Done (741 sequences added, 0 ignored).
+		Reading sequence 'utg3'
+		Adding genomic sequences to exons: 	Done (2523 sequences added, 0 ignored).
+		Reading sequence 'utg767'
+		Adding genomic sequences to exons: 	Done (51 sequences added, 0 ignored).
+		Reading sequence 'utg24'
+		Adding genomic sequences to exons: 	Done (114 sequences added, 0 ignored).
+		Reading sequence 'utg19'
+		Adding genomic sequences to exons: 	Done (2124 sequences added, 0 ignored).
+		Reading sequence 'utg135'
+		Adding genomic sequences to exons: 	Done (413 sequences added, 0 ignored).
+		Reading sequence 'utg0'
+		Adding genomic sequences to exons: 	Done (385 sequences added, 0 ignored).
+		Reading sequence 'utg608'
+		Adding genomic sequences to exons: 	Done (27 sequences added, 0 ignored).
+		Reading sequence 'utg162'
+		Adding genomic sequences to exons: 	Done (106 sequences added, 0 ignored).
+		Reading sequence 'utg1723'
+		Adding genomic sequences to exons: 	Done (71 sequences added, 0 ignored).
+		Reading sequence 'utg95'
+		Adding genomic sequences to exons: 	Done (1912 sequences added, 0 ignored).
+		Reading sequence 'utg631'
+		Adding genomic sequences to exons: 	Done (246 sequences added, 0 ignored).
+		Reading sequence 'utg53'
+		Adding genomic sequences to exons: 	Done (325 sequences added, 0 ignored).
+		Reading sequence 'utg576'
+		Adding genomic sequences to exons: 	Done (69 sequences added, 0 ignored).
+		Reading sequence 'utg2'
+		Adding genomic sequences to exons: 	Done (2100 sequences added, 0 ignored).
+		Reading sequence 'utg26'
+		Adding genomic sequences to exons: 	Done (347 sequences added, 0 ignored).
+		Reading sequence 'utg262'
+		Adding genomic sequences to exons: 	Done (96 sequences added, 0 ignored).
+		Reading sequence 'utg115'
+		Adding genomic sequences to exons: 	Done (137 sequences added, 0 ignored).
+		Reading sequence 'utg799'
+		Adding genomic sequences to exons: 	Done (91 sequences added, 0 ignored).
+		Reading sequence 'utg520'
+		Adding genomic sequences to exons: 	Done (174 sequences added, 0 ignored).
+		Reading sequence 'utg195'
+		Adding genomic sequences to exons: 	Done (235 sequences added, 0 ignored).
+		Reading sequence 'utg79'
+		Adding genomic sequences to exons: 	Done (64 sequences added, 0 ignored).
+		Reading sequence 'utg1373'
+		Adding genomic sequences to exons: 	Done (15 sequences added, 0 ignored).
+		Reading sequence 'utg479'
+		Adding genomic sequences to exons: 	Done (120 sequences added, 0 ignored).
+		Reading sequence 'utg3310'
+		Adding genomic sequences to exons: 	Done (19 sequences added, 0 ignored).
+		Reading sequence 'utg22'
+		Adding genomic sequences to exons: 	Done (103 sequences added, 0 ignored).
+		Reading sequence 'utg14'
+		Adding genomic sequences to exons: 	Done (158 sequences added, 0 ignored).
+		Reading sequence 'utg44'
+		Adding genomic sequences to exons: 	Done (1301 sequences added, 0 ignored).
+		Reading sequence 'utg40'
+		Adding genomic sequences to exons: 	Done (642 sequences added, 0 ignored).
+		Reading sequence 'utg9'
+		Adding genomic sequences to exons: 	Done (3366 sequences added, 0 ignored).
+		Reading sequence 'utg3440'
+		Adding genomic sequences to exons: 	Done (30 sequences added, 0 ignored).
+		Reading sequence 'utg65'
+		Adding genomic sequences to exons: 	Done (448 sequences added, 0 ignored).
+		Reading sequence 'utg15'
+		Adding genomic sequences to exons: 	Done (1943 sequences added, 0 ignored).
+		Reading sequence 'utg5'
+		Adding genomic sequences to exons: 	Done (3885 sequences added, 0 ignored).
+		Reading sequence 'utg117'
+		Adding genomic sequences to exons: 	Done (217 sequences added, 0 ignored).
+		Reading sequence 'utg3872'
+		Adding genomic sequences to exons: 	Done (13 sequences added, 0 ignored).
+		Reading sequence 'utg21'
+		Adding genomic sequences to exons: 	Done (342 sequences added, 0 ignored).
+		Reading sequence 'utg48'
+		Adding genomic sequences to exons: 	Done (240 sequences added, 0 ignored).
+		Reading sequence 'utg12'
+		Adding genomic sequences to exons: 	Done (1614 sequences added, 0 ignored).
+		Reading sequence 'utg29'
+		Adding genomic sequences to exons: 	Done (2062 sequences added, 0 ignored).
+		Reading sequence 'utg118'
+		Adding genomic sequences to exons: 	Done (163 sequences added, 0 ignored).
+		Reading sequence 'utg64'
+		Adding genomic sequences to exons: 	Done (245 sequences added, 0 ignored).
+		Reading sequence 'utg91'
+		Adding genomic sequences to exons: 	Done (672 sequences added, 0 ignored).
+		Reading sequence 'utg25'
+		Adding genomic sequences to exons: 	Done (3494 sequences added, 0 ignored).
+		Reading sequence 'utg30'
+		Adding genomic sequences to exons: 	Done (413 sequences added, 0 ignored).
+	Total: 35832 sequences added, 0 sequences ignored.
+
+	Adjusting transcripts:
+	Adjusting genes:
+	Adjusting chromosomes lengths:
+	Ranking exons: ....................................................................................................
+		10000	................................
+	Create UTRs from CDS (if needed):
+	Correcting exons based on frame information.
+
+	Remove empty chromosomes:
+
+	Marking as 'coding' from CDS information:
+	Done: 0 transcripts marked
+#-----------------------------------------------
+# Genome name                : 'guy11'
+# Genome version             : 'guy11'
+# Genome ID                  : 'guy11[0]'
+# Has protein coding info    : true
+# Has Tr. Support Level info : true
+# Genes                      : 13132
+# Protein coding genes       : 13132
+#-----------------------------------------------
+# Transcripts                : 13213
+# Avg. transcripts per gene  : 1.01
+# TSL transcripts            : 0
+#-----------------------------------------------
+# Checked transcripts        :
+#               AA sequences :      0 ( 0.00% )
+#              DNA sequences :      0 ( 0.00% )
+#-----------------------------------------------
+# Protein coding transcripts : 13213
+#              Length errors :      0 ( 0.00% )
+#  STOP codons in CDS errors :      0 ( 0.00% )
+#         START codon errors :    445 ( 3.37% )
+#        STOP codon warnings :    244 ( 1.85% )
+#              UTR sequences :    659 ( 4.99% )
+#               Total Errors :    445 ( 3.37% )
+#-----------------------------------------------
+# Cds                        : 35607
+# Exons                      : 35832
+# Exons with sequence        : 35832
+# Exons without sequence     : 0
+# Avg. exons per transcript  : 2.71
+# WARNING                    : No mitochondrion chromosome found
+#-----------------------------------------------
+# Number of chromosomes      : 52
+# Chromosomes                : Format 'chromo_name size codon_table'
+#		'utg5'	4476857	Standard
+#		'utg9'	4234626	Standard
+#		'utg25'	3839054	Standard
+#		'utg3'	2823659	Standard
+#		'utg19'	2623241	Standard
+#		'utg2'	2404590	Standard
+#		'utg29'	2324512	Standard
+#		'utg15'	2319003	Standard
+#		'utg95'	2223387	Standard
+#		'utg12'	1891051	Standard
+#		'utg44'	1655140	Standard
+#		'utg58'	1207546	Standard
+#		'utg93'	957831	Standard
+#		'utg17'	894386	Standard
+#		'utg91'	807863	Standard
+#		'utg40'	768435	Standard
+#		'utg30'	601831	Standard
+#		'utg65'	561836	Standard
+#		'utg26'	500076	Standard
+#		'utg53'	463548	Standard
+#		'utg135'	428275	Standard
+#		'utg48'	422602	Standard
+#		'utg0'	394776	Standard
+#		'utg21'	389921	Standard
+#		'utg64'	369706	Standard
+#		'utg195'	354880	Standard
+#		'utg631'	290881	Standard
+#		'utg117'	276455	Standard
+#		'utg118'	253222	Standard
+#		'utg453'	239377	Standard
+#		'utg14'	238347	Standard
+#		'utg22'	209806	Standard
+#		'utg162'	200767	Standard
+#		'utg115'	195066	Standard
+#		'utg479'	194220	Standard
+#		'utg24'	178561	Standard
+#		'utg520'	159687	Standard
+#		'utg262'	128152	Standard
+#		'utg79'	106322	Standard
+#		'utg799'	104668	Standard
+#		'utg576'	98673	Standard
+#		'utg767'	72987	Standard
+#		'utg1059'	62634	Standard
+#		'utg2943'	54612	Standard
+#		'utg1723'	49300	Standard
+#		'utg3693'	48332	Standard
+#		'utg608'	46441	Standard
+#		'utg1373'	36221	Standard
+#		'utg3440'	34565	Standard
+#		'utg3310'	30103	Standard
+#		'utg912'	29187	Standard
+#		'utg3872'	27115	Standard
+#-----------------------------------------------
+
+00:00:23	Caracterizing exons by splicing (stage 1) :
+	...................................
+00:00:23	Caracterizing exons by splicing (stage 2) :
+	...................................00:00:23	done.
+00:00:23	[Optional] Rare amino acid annotations
+00:00:23	Warning: Cannot read optional protein sequence file '/tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/protein.fa', nothing done.
+00:00:23	Saving database
+00:00:33	[Optional] Reading regulation elements: GFF
+00:00:33	Warning: Cannot read optional regulation file '/tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/regulation.gff', nothing done.
+00:00:33	[Optional] Reading regulation elements: BED
+00:00:33	Cannot find optional regulation dir '/tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/regulation.bed/', nothing done.
+00:00:33	[Optional] Reading motifs: GFF
+00:00:33	Warning: Cannot open PWMs file /tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/pwms.bin. Nothing done
+00:00:33	Done
+00:00:33	Logging
+00:00:34	Checking for updates...
+(base) [shrestha@TSL-HPC interactive workarea]$ mv /tsl/software/testing/snpEff/4.2/src/snpEff/data/guy11/proteins.fa /tsl/software/testing/snpEff/4.2/src/snpEff/data/guy11/protein.fa
+(base) [shrestha@TSL-HPC interactive workarea]$
+(base) [shrestha@TSL-HPC interactive workarea]$
+(base) [shrestha@TSL-HPC interactive workarea]$
+(base) [shrestha@TSL-HPC interactive workarea]$
+(base) [shrestha@TSL-HPC interactive workarea]$
+(base) [shrestha@TSL-HPC interactive workarea]$
+(base) [shrestha@TSL-HPC interactive workarea]$
+(base) [shrestha@TSL-HPC interactive workarea]$
+(base) [shrestha@TSL-HPC interactive workarea]$ snpEff build -gff3 -v guy11
+00:00:00	SnpEff version SnpEff 4.2 (build 2015-12-05), by Pablo Cingolani
+00:00:00	Command: 'build'
+00:00:00	Building database for 'guy11'
+00:00:00	Reading configuration file '/tsl/software/testing/snpEff/4.2/x86_64/snpEff.config'. Genome: 'guy11'
+00:00:00	Reading config file: /tsl/software/testing/snpEff/4.2/src/snpEff/snpEff.config
+00:00:02	done
+Reading GFF3 data file  : '/tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/genes.gff'
+....................................................................................................
+		10000	....................................................................................................
+		20000	....................................................................................................
+		30000	....................................................................................................
+		40000	....................................................................................................
+		50000	....................................................................................................
+		60000	..............................
+	Total: 63000 markers added.
+
+	Create exons from CDS (if needed):
+	Exons created for 0 transcripts.
+
+	Deleting redundant exons (if needed):
+		Total transcripts with deleted exons: 0
+
+	Collapsing zero length introns (if needed):
+		Total collapsed transcripts: 0
+	Reading sequences   :
+		Reading sequence 'utg93'
+		Adding genomic sequences to exons: 	Done (740 sequences added, 0 ignored).
+		Reading sequence 'utg453'
+		Adding genomic sequences to exons: 	Done (146 sequences added, 0 ignored).
+		Reading sequence 'utg1059'
+		Adding genomic sequences to exons: 	Done (30 sequences added, 0 ignored).
+		Reading sequence 'utg3693'
+		Adding genomic sequences to exons: 	Done (38 sequences added, 0 ignored).
+		Reading sequence 'utg58'
+		Adding genomic sequences to exons: 	Done (989 sequences added, 0 ignored).
+		Reading sequence 'utg2943'
+		Adding genomic sequences to exons: 	Done (14 sequences added, 0 ignored).
+		Reading sequence 'utg912'
+		Adding genomic sequences to exons: 	Done (19 sequences added, 0 ignored).
+		Reading sequence 'utg17'
+		Adding genomic sequences to exons: 	Done (741 sequences added, 0 ignored).
+		Reading sequence 'utg3'
+		Adding genomic sequences to exons: 	Done (2523 sequences added, 0 ignored).
+		Reading sequence 'utg767'
+		Adding genomic sequences to exons: 	Done (51 sequences added, 0 ignored).
+		Reading sequence 'utg24'
+		Adding genomic sequences to exons: 	Done (114 sequences added, 0 ignored).
+		Reading sequence 'utg19'
+		Adding genomic sequences to exons: 	Done (2124 sequences added, 0 ignored).
+		Reading sequence 'utg135'
+		Adding genomic sequences to exons: 	Done (413 sequences added, 0 ignored).
+		Reading sequence 'utg0'
+		Adding genomic sequences to exons: 	Done (385 sequences added, 0 ignored).
+		Reading sequence 'utg608'
+		Adding genomic sequences to exons: 	Done (27 sequences added, 0 ignored).
+		Reading sequence 'utg162'
+		Adding genomic sequences to exons: 	Done (106 sequences added, 0 ignored).
+		Reading sequence 'utg1723'
+		Adding genomic sequences to exons: 	Done (71 sequences added, 0 ignored).
+		Reading sequence 'utg95'
+		Adding genomic sequences to exons: 	Done (1912 sequences added, 0 ignored).
+		Reading sequence 'utg631'
+		Adding genomic sequences to exons: 	Done (246 sequences added, 0 ignored).
+		Reading sequence 'utg53'
+		Adding genomic sequences to exons: 	Done (325 sequences added, 0 ignored).
+		Reading sequence 'utg576'
+		Adding genomic sequences to exons: 	Done (69 sequences added, 0 ignored).
+		Reading sequence 'utg2'
+		Adding genomic sequences to exons: 	Done (2100 sequences added, 0 ignored).
+		Reading sequence 'utg26'
+		Adding genomic sequences to exons: 	Done (347 sequences added, 0 ignored).
+		Reading sequence 'utg262'
+		Adding genomic sequences to exons: 	Done (96 sequences added, 0 ignored).
+		Reading sequence 'utg115'
+		Adding genomic sequences to exons: 	Done (137 sequences added, 0 ignored).
+		Reading sequence 'utg799'
+		Adding genomic sequences to exons: 	Done (91 sequences added, 0 ignored).
+		Reading sequence 'utg520'
+		Adding genomic sequences to exons: 	Done (174 sequences added, 0 ignored).
+		Reading sequence 'utg195'
+		Adding genomic sequences to exons: 	Done (235 sequences added, 0 ignored).
+		Reading sequence 'utg79'
+		Adding genomic sequences to exons: 	Done (64 sequences added, 0 ignored).
+		Reading sequence 'utg1373'
+		Adding genomic sequences to exons: 	Done (15 sequences added, 0 ignored).
+		Reading sequence 'utg479'
+		Adding genomic sequences to exons: 	Done (120 sequences added, 0 ignored).
+		Reading sequence 'utg3310'
+		Adding genomic sequences to exons: 	Done (19 sequences added, 0 ignored).
+		Reading sequence 'utg22'
+		Adding genomic sequences to exons: 	Done (103 sequences added, 0 ignored).
+		Reading sequence 'utg14'
+		Adding genomic sequences to exons: 	Done (158 sequences added, 0 ignored).
+		Reading sequence 'utg44'
+		Adding genomic sequences to exons: 	Done (1301 sequences added, 0 ignored).
+		Reading sequence 'utg40'
+		Adding genomic sequences to exons: 	Done (642 sequences added, 0 ignored).
+		Reading sequence 'utg9'
+		Adding genomic sequences to exons: 	Done (3366 sequences added, 0 ignored).
+		Reading sequence 'utg3440'
+		Adding genomic sequences to exons: 	Done (30 sequences added, 0 ignored).
+		Reading sequence 'utg65'
+		Adding genomic sequences to exons: 	Done (448 sequences added, 0 ignored).
+		Reading sequence 'utg15'
+		Adding genomic sequences to exons: 	Done (1943 sequences added, 0 ignored).
+		Reading sequence 'utg5'
+		Adding genomic sequences to exons: 	Done (3885 sequences added, 0 ignored).
+		Reading sequence 'utg117'
+		Adding genomic sequences to exons: 	Done (217 sequences added, 0 ignored).
+		Reading sequence 'utg3872'
+		Adding genomic sequences to exons: 	Done (13 sequences added, 0 ignored).
+		Reading sequence 'utg21'
+		Adding genomic sequences to exons: 	Done (342 sequences added, 0 ignored).
+		Reading sequence 'utg48'
+		Adding genomic sequences to exons: 	Done (240 sequences added, 0 ignored).
+		Reading sequence 'utg12'
+		Adding genomic sequences to exons: 	Done (1614 sequences added, 0 ignored).
+		Reading sequence 'utg29'
+		Adding genomic sequences to exons: 	Done (2062 sequences added, 0 ignored).
+		Reading sequence 'utg118'
+		Adding genomic sequences to exons: 	Done (163 sequences added, 0 ignored).
+		Reading sequence 'utg64'
+		Adding genomic sequences to exons: 	Done (245 sequences added, 0 ignored).
+		Reading sequence 'utg91'
+		Adding genomic sequences to exons: 	Done (672 sequences added, 0 ignored).
+		Reading sequence 'utg25'
+		Adding genomic sequences to exons: 	Done (3494 sequences added, 0 ignored).
+		Reading sequence 'utg30'
+		Adding genomic sequences to exons: 	Done (413 sequences added, 0 ignored).
+	Total: 35832 sequences added, 0 sequences ignored.
+
+	Adjusting transcripts:
+	Adjusting genes:
+	Adjusting chromosomes lengths:
+	Ranking exons: ....................................................................................................
+		10000	................................
+	Create UTRs from CDS (if needed):
+	Correcting exons based on frame information.
+
+	Remove empty chromosomes:
+
+	Marking as 'coding' from CDS information:
+	Done: 0 transcripts marked
+#-----------------------------------------------
+# Genome name                : 'guy11'
+# Genome version             : 'guy11'
+# Genome ID                  : 'guy11[0]'
+# Has protein coding info    : true
+# Has Tr. Support Level info : true
+# Genes                      : 13132
+# Protein coding genes       : 13132
+#-----------------------------------------------
+# Transcripts                : 13213
+# Avg. transcripts per gene  : 1.01
+# TSL transcripts            : 0
+#-----------------------------------------------
+# Checked transcripts        :
+#               AA sequences :      0 ( 0.00% )
+#              DNA sequences :      0 ( 0.00% )
+#-----------------------------------------------
+# Protein coding transcripts : 13213
+#              Length errors :      0 ( 0.00% )
+#  STOP codons in CDS errors :      0 ( 0.00% )
+#         START codon errors :    445 ( 3.37% )
+#        STOP codon warnings :    244 ( 1.85% )
+#              UTR sequences :    659 ( 4.99% )
+#               Total Errors :    445 ( 3.37% )
+#-----------------------------------------------
+# Cds                        : 35607
+# Exons                      : 35832
+# Exons with sequence        : 35832
+# Exons without sequence     : 0
+# Avg. exons per transcript  : 2.71
+# WARNING                    : No mitochondrion chromosome found
+#-----------------------------------------------
+# Number of chromosomes      : 52
+# Chromosomes                : Format 'chromo_name size codon_table'
+#		'utg5'	4476857	Standard
+#		'utg9'	4234626	Standard
+#		'utg25'	3839054	Standard
+#		'utg3'	2823659	Standard
+#		'utg19'	2623241	Standard
+#		'utg2'	2404590	Standard
+#		'utg29'	2324512	Standard
+#		'utg15'	2319003	Standard
+#		'utg95'	2223387	Standard
+#		'utg12'	1891051	Standard
+#		'utg44'	1655140	Standard
+#		'utg58'	1207546	Standard
+#		'utg93'	957831	Standard
+#		'utg17'	894386	Standard
+#		'utg91'	807863	Standard
+#		'utg40'	768435	Standard
+#		'utg30'	601831	Standard
+#		'utg65'	561836	Standard
+#		'utg26'	500076	Standard
+#		'utg53'	463548	Standard
+#		'utg135'	428275	Standard
+#		'utg48'	422602	Standard
+#		'utg0'	394776	Standard
+#		'utg21'	389921	Standard
+#		'utg64'	369706	Standard
+#		'utg195'	354880	Standard
+#		'utg631'	290881	Standard
+#		'utg117'	276455	Standard
+#		'utg118'	253222	Standard
+#		'utg453'	239377	Standard
+#		'utg14'	238347	Standard
+#		'utg22'	209806	Standard
+#		'utg162'	200767	Standard
+#		'utg115'	195066	Standard
+#		'utg479'	194220	Standard
+#		'utg24'	178561	Standard
+#		'utg520'	159687	Standard
+#		'utg262'	128152	Standard
+#		'utg79'	106322	Standard
+#		'utg799'	104668	Standard
+#		'utg576'	98673	Standard
+#		'utg767'	72987	Standard
+#		'utg1059'	62634	Standard
+#		'utg2943'	54612	Standard
+#		'utg1723'	49300	Standard
+#		'utg3693'	48332	Standard
+#		'utg608'	46441	Standard
+#		'utg1373'	36221	Standard
+#		'utg3440'	34565	Standard
+#		'utg3310'	30103	Standard
+#		'utg912'	29187	Standard
+#		'utg3872'	27115	Standard
+#-----------------------------------------------
+
+00:00:22	Caracterizing exons by splicing (stage 1) :
+	...................................
+00:00:22	Caracterizing exons by splicing (stage 2) :
+	...................................00:00:23	done.
+00:00:23	[Optional] Rare amino acid annotations
+00:00:23	Done.
+00:00:23	Protein check file: '/tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/protein.fa'
+
+00:00:23	Checking database using protein sequences
+00:00:23	Reading proteins from file '/tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/protein.fa'...
+00:00:24	done (15820 Proteins).
+00:00:24	Comparing Proteins...
+	Labels:
+		'+' : OK
+		'.' : Missing
+		'*' : Error
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+## README
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	++++++++++++++
+
+	Protein check:	guy11	OK: 13213	Not found: 0	Errors: 0	Error percentage: 0.0%
+00:00:25	Saving database
+00:00:34	[Optional] Reading regulation elements: GFF
+00:00:34	Warning: Cannot read optional regulation file '/tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/regulation.gff', nothing done.
+00:00:34	[Optional] Reading regulation elements: BED
+00:00:34	Cannot find optional regulation dir '/tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/regulation.bed/', nothing done.
+00:00:34	[Optional] Reading motifs: GFF
+00:00:34	Warning: Cannot open PWMs file /tsl/software/testing/snpEff/4.2/src/snpEff/./data/guy11/pwms.bin. Nothing done
+00:00:34	Done
+00:00:34	Logging
+00:00:35	Checking for updates...
